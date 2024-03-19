@@ -1,0 +1,88 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+nav{
+    padding-right: 30px;
+}
+A{
+    padding-left: 30px;
+    text-decoration : none;
+    color: black;
+}
+#Img1{
+    padding-top: 50px;
+    width: 100%;
+    height: auto;
+}
+body{
+    width: 100%;
+    margin: auto;
+}
+#H1{
+    text-align: center;
+}
+#P1{
+    justify-content: center;
+    text-align: center;
+}
+form{
+    justify-content: center;
+    align-items: center;
+    padding: 10px 0 10px 50px;
+}
+input{
+    border-radius: 2px;
+    width: 70%;
+    display: block;
+    padding: 10px 0 10px 30px;
+    margin-bottom: 30px;
+
+}
+#But1{
+    padding: 14px 150px 14px 120px;
+    background-color: hsl(224, 93%, 58%);
+    border: transparent;
+    margin-bottom: 30px;
+    color: white;
+}
+section{
+    background-color: hsl(240, 75%, 98%);
+
+}
+#Sec{
+    padding-top: 50px;
+}
+#Img2{
+    padding-top: 50px;
+    width: 100%;
+    height: auto;
+}
+.Main{
+    justify-content: center;
+    align-items: center;
+    margin: 1px 50px 10px 50px;
+    background-color: white;
+}
+.CV{ 
+    display: flex;
+    padding-left: 20px;
+}
+.CVpic{
+    width: 90px;
+    height: auto;
+    border-radius: 1000px;
+    padding-right: 10px;
+}
+.Be{
+    background-color: hsl(238, 22%, 44%);
+    color: white;
+    padding-bottom: 50px;
+}
+footer{
+    background-color: hsl(243, 87%, 12%);
+    display: flex;
+    color: white;
+    flex-direction: column;
+}
